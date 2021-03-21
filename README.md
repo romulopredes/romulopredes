@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Master's thesis in Sociology (IESP-UERJ) 
 - 🌱 I’m currently improving my knowledge in **R**, **Python** and **SQL**
 - 📝 More about me at https://sites.google.com/iesp.uerj.br/romulopredes
