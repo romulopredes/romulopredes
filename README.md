@@ -5,5 +5,5 @@
 - 📫 How to reach me: romulopmc@gmail.com.br
 - 😄 Pronouns: He/Him (EN) - Ele/Dele (PT)
 
-Rômulo Predes
+Rômulo Predes \
 Data Analyst @ ID_BR
