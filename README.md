@@ -4,3 +4,6 @@
 - 📝 More about me at https://sites.google.com/iesp.uerj.br/romulopredes
 - 📫 How to reach me: romulopmc@gmail.com.br
 - 😄 Pronouns: He/Him (EN) - Ele/Dele (PT)
+
+Rômulo Predes
+Data Analyst @ ID_BR
